@@ -1,10 +1,10 @@
-#add
+#add implement
 def add(x,y):
 	return x+y
-#sub
+#sub implement
 def sub(x,y):
 	return x-y
-#div
+#div implement
 def div(x,y):
 
 	if y==0:
@@ -13,7 +13,7 @@ def div(x,y):
 		return x/y
 
 	
-#mul
+#mul implement
 def mul(x,y):
 	return x*y
 #sqaure
