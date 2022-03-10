@@ -15,7 +15,7 @@ def div(x,y):
 	
 #mul implement
 def mul(x,y):
-	return x*y
+	return x*y #mul from locl repo
 #sqaure
 def square(x):
 	return x*x
