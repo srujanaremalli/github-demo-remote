@@ -3,7 +3,7 @@ def add(x,y):
 	return x+y #sum
 #sub implement
 def sub(x,y):
-	return x-y
+	return x-y #subtraction
 #div implement
 def div(x,y):
 
